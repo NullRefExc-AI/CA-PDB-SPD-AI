@@ -1,0 +1,7 @@
+tensorflow~=2.16.1
+scikit-learn~=1.4.2
+SQLAlchemy~=2.0.29
+flask~=3.0.3
+numpy~=1.26.4
+cstruct~=5.3
+requests~=2.31.0

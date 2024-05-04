@@ -1,0 +1,7 @@
+[
+  {
+    "codename": "PIE",
+    "description": "A VERY STRANGE PEOPLE WITH LOVE TO WINDOWS",
+    "weights_path": "../../ai/models/pie/pie-new-16.keras"
+  }
+]
